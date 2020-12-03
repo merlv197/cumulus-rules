@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "github:fireinureeyes/json",
+      "/Users/vincent/Documents/Cumulus/cumulus-assistant"
+    ]
+  ],
+  "_from": "github:fireinureeyes/json",
+  "_id": "@fireinureeyes/json@github:fireinureeyes/json#1ad2956d7e468f851a06a76b841198eb81700a1e",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@fireinureeyes/json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:fireinureeyes/json",
+    "rawSpec": "github:fireinureeyes/json",
+    "saveSpec": "github:fireinureeyes/json",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:fireinureeyes/json#1ad2956d7e468f851a06a76b841198eb81700a1e",
+  "_spec": "github:fireinureeyes/json",
+  "_where": "/Users/vincent/Documents/Cumulus/cumulus-assistant",
+  "author": {
+    "name": "fireinureeyes"
+  },
+  "bugs": {
+    "url": "https://github.com/fireinureeyes/json/issues"
+  },
+  "description": "Design system rules",
+  "homepage": "https://github.com/fireinureeyes/json#readme",
+  "license": "MIT",
+  "main": "primitive.json",
+  "name": "@fireinureeyes/json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireinureeyes/json.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
